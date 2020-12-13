@@ -1,0 +1,1 @@
+generowanie i testowanie zmiennych z różnych rozkładów oraz procesów stochastycznych
